@@ -1,0 +1,54 @@
+Files already downloaded and verified
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
+tensor([0, 8, 2, 9])
+Files already downloaded and verified
+Epoch 1 train: 12500/12500 loss: 1.69808 (56.231282s)This much, 53.480000000000004% , of the dataset was correct
+Epoch 2 train: 12500/12500 loss: 1.42897 (53.554745s)This much, 58.650000000000006% , of the dataset was correct
+Epoch 3 train: 12500/12500 loss: 1.31329 (54.349398s)This much, 60.45% , of the dataset was correct
+Epoch 4 train: 12500/12500 loss: 1.24454 (54.901263s)This much, 63.449999999999996% , of the dataset was correct
+Epoch 5 train: 12500/12500 loss: 1.17350 (54.486837s)This much, 66.64% , of the dataset was correct
+Epoch 6 train: 12500/12500 loss: 1.12265 (54.567351s)This much, 66.97999999999999% , of the dataset was correct
+Epoch 7 train: 12500/12500 loss: 1.09046 (55.344910s)This much, 64.53999999999999% , of the dataset was correct
+Epoch 8 train: 12500/12500 loss: 1.04640 (54.987271s)This much, 69.23% , of the dataset was correct
+Epoch 9 train: 12500/12500 loss: 1.01860 (55.295925s)This much, 68.67999999999999% , of the dataset was correct
+Epoch 10 train: 12500/12500 loss: 0.98687 (54.948364s)This much, 68.77% , of the dataset was correct
+Epoch 11 train: 12500/12500 loss: 0.96779 (54.986249s)This much, 69.03% , of the dataset was correct
+Epoch 12 train: 12500/12500 loss: 0.93873 (55.397755s)This much, 69.21000000000001% , of the dataset was correct
+Epoch 13 train: 12500/12500 loss: 0.91718 (54.883467s)This much, 70.02000000000001% , of the dataset was correct
+Epoch 14 train: 12500/12500 loss: 0.90213 (54.559254s)This much, 71.03% , of the dataset was correct
+Epoch 15 train: 12500/12500 loss: 0.87933 (55.058836s)This much, 68.99% , of the dataset was correct
+Epoch 16 train: 12500/12500 loss: 0.85885 (55.728228s)This much, 70.28999999999999% , of the dataset was correct
+Epoch 17 train: 12500/12500 loss: 0.84515 (56.422896s)This much, 70.58% , of the dataset was correct
+Epoch 18 train: 12500/12500 loss: 0.82173 (55.866774s)This much, 69.95% , of the dataset was correct
+Epoch 19 train: 12500/12500 loss: 0.81228 (56.115868s)This much, 70.8% , of the dataset was correct
+Epoch 20 train: 12500/12500 loss: 0.79901 (56.038975s)This much, 70.35% , of the dataset was correct
+Epoch 21 train: 12500/12500 loss: 0.77943 (56.515477s)This much, 70.57% , of the dataset was correct
+Epoch 22 train: 12500/12500 loss: 0.77146 (56.009092s)This much, 69.94% , of the dataset was correct
+Epoch 23 train: 12500/12500 loss: 0.75738 (56.567016s)This much, 69.67999999999999% , of the dataset was correct
+Epoch 24 train: 12500/12500 loss: 0.75656 (56.600490s)This much, 70.84% , of the dataset was correct
+Epoch 25 train: 12500/12500 loss: 0.73757 (55.948416s)This much, 71.17% , of the dataset was correct
+Epoch 26 train: 12500/12500 loss: 0.72953 (55.825004s)This much, 71.41% , of the dataset was correct
+Epoch 27 train: 12500/12500 loss: 0.71249 (55.577883s)This much, 70.89999999999999% , of the dataset was correct
+Epoch 28 train: 12500/12500 loss: 0.71118 (55.982050s)This much, 71.61999999999999% , of the dataset was correct
+Epoch 29 train: 12500/12500 loss: 0.69454 (56.437043s)This much, 69.54% , of the dataset was correct
+Epoch 30 train: 12500/12500 loss: 0.68065 (55.939393s)This much, 69.88% , of the dataset was correct
+Epoch 31 train: 12500/12500 loss: 0.67871 (55.279696s)This much, 69.78% , of the dataset was correct
+Epoch 32 train: 12500/12500 loss: 0.67142 (56.047766s)This much, 68.75% , of the dataset was correct
+Epoch 33 train: 12500/12500 loss: 0.66239 (55.875754s)This much, 69.49% , of the dataset was correct
+Epoch 34 train: 12500/12500 loss: 0.65919 (55.661149s)This much, 71.43% , of the dataset was correct
+Epoch 35 train: 12500/12500 loss: 0.64626 (56.018481s)This much, 67.66% , of the dataset was correct
+Epoch 36 train: 12500/12500 loss: 0.63902 (54.841140s)This much, 69.61% , of the dataset was correct
+Epoch 37 train: 12500/12500 loss: 0.63052 (56.733927s)This much, 70.86% , of the dataset was correct
+Epoch 38 train: 12500/12500 loss: 0.63323 (56.703035s)This much, 70.54% , of the dataset was correct
+Epoch 39 train: 12500/12500 loss: 0.62130 (56.848959s)This much, 68.78% , of the dataset was correct
+Epoch 40 train: 12500/12500 loss: 0.61835 (56.457256s)This much, 69.62% , of the dataset was correct
+Epoch 41 train: 12500/12500 loss: 0.61078 (57.812197s)This much, 70.21% , of the dataset was correct
+Epoch 42 train: 12500/12500 loss: 0.59620 (57.276547s)This much, 70.32000000000001% , of the dataset was correct
+Epoch 43 train: 12500/12500 loss: 0.59649 (55.492633s)This much, 70.32000000000001% , of the dataset was correct
+Epoch 44 train: 12500/12500 loss: 0.59301 (56.299073s)This much, 69.21000000000001% , of the dataset was correct
+Epoch 45 train: 12500/12500 loss: 0.58426 (55.019706s)This much, 69.25% , of the dataset was correct
+Epoch 46 train: 12500/12500 loss: 0.58037 (61.921279s)This much, 70.66% , of the dataset was correct
+Epoch 47 train: 12500/12500 loss: 0.57623 (56.787480s)This much, 68.08% , of the dataset was correct
+Epoch 48 train: 12500/12500 loss: 0.56971 (58.899698s)This much, 70.16% , of the dataset was correct
+Epoch 49 train: 12500/12500 loss: 0.56664 (52.277416s)This much, 70.17% , of the dataset was correct
+Epoch 50 train: 12500/12500 loss: 0.56003 (51.312098s)This much, 69.53% , of the dataset was correct
