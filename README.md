@@ -4,8 +4,8 @@
 
 
 
-##RESULTS AND OUTPUT
-(Output)![assign5_output.out]
+## RESULTS AND OUTPUT
+[OUTPUT](assign5_output.out)
 
 ### Run
 
