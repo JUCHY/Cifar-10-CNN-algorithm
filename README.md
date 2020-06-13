@@ -6,3 +6,5 @@
 ### Run
 
 python3 assign5.py
+or
+python assign5.py
